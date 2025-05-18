@@ -7,7 +7,7 @@ from torchvision import transforms
 from torch.utils.data import Dataset, DataLoader
 from typing import Tuple
 
-# Set your team token here (obtain this by registering your team)
+
 TOKEN = "13602610"
 
 # Model setup
